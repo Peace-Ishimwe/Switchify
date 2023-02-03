@@ -24,3 +24,5 @@ toggle.addEventListener("click", function () {
     localStorage.setItem("theme", "dark");
   }
 });
+
+
